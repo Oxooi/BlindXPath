@@ -10,6 +10,12 @@ Advanced XPath Injection exploitation toolkit for penetration testing and CTF ch
 - 🚀 **Fast & Efficient**: Optimized bruteforce algorithms
 - 🔧 **Burp Integration**: Built-in proxy support for debugging
 
+## 📸 Screenshots
+![Example N°1](./images/1.png)
+
+![Example N°2](./images/2.png)
+
+
 ## 🚀 Quick Start
 ```bash
 git clone https://github.com/Oxooi/XPathNinja.git
